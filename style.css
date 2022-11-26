@@ -1,0 +1,133 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.lfwf{
+    background-color: rgb(92, 39, 215);
+    text-align: center;
+}
+.main-menu{
+    text-align: center;
+    background-color: rgb(218, 38, 32);
+}
+
+.main-menu li{
+display: inline;
+text-align: center;
+margin-left: 10px;
+
+
+}
+
+.main-menu li a{
+    padding: 10px;
+    font-size: 80px;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+}
+.another{
+   
+    background-image: url(./pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustration-backgroundadvertising-image_58694.jpg);
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   padding: 400px 0px;
+  
+}
+.h1{
+    text-align: center;
+    color: #fff;
+}
+.h2{
+    text-align: center;
+    color: #fff
+}
+.contact-us{
+    text-align: center;
+   
+}
+.one{
+    display: inline-block;
+    background-color: green;
+}
+.banar{
+   
+
+    background-image: url(./pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   padding: 400px 0px;
+   text-align: center;
+}
+.another-h1{
+    background-color: green;
+    text-align: center;
+    color:#fff;
+    font-size: 100px;
+    padding-top: 20px;
+
+    
+  
+}
+.ptag{
+    background-color: orange;
+    font-size: 100px;
+    padding-top: 20px;
+    display: inline;
+   
+  
+}
+.complete-test{
+    padding: 20px;
+    text-align: center;
+}
+.complete{
+    background-color: black;
+    padding: 20px;
+    color: #fff;
+    display: inline;
+    text-align:center;
+}
+.know{
+    font-size: 80px;
+    text-align: center;
+    height: 1500px;
+    background-color: rgb(57, 131, 57);
+}
+.item{
+    margin: 100px auto;
+
+}
+.img{
+display: inline-block;
+width: 20%;
+}
+.text{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    
+}
+.text2{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    text-align: right;
+    
+}
+.item2{
+    text-align: right;
+}
+
+
+  
+
+
+
+
+
